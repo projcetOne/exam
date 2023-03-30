@@ -1,0 +1,140 @@
+﻿인규 임이(가) 예약된 Zoom 회의에 귀하를 초대합니다.
+
+주제: Zoom meeting invitation - 인규 임님의 Zoom 회의
+시간: 2022년 12월 28일  09:30 오전 서울
+
+Zoom 회의 참가
+https://us06web.zoom.us/j/4296436836?pwd=TTVTMk1EWUNMTTY4YXVqdGRodm94dz09
+
+회의 ID: 429 643 6836
+암호: 501
+
+
+임인규
+010-8589-2032
+
+언어 : java 
+ web : html/css , javascript/jquery/ajax 
+back : jsp/servlet  , spring 
+DB(database) 
+ 
+
+
+
+
+
+
+
+
+
+win+r 
+\\501-31
+
+0269520717
+
+JAVA (파일명.java) 
+1.jdk (www.oracle.com) 
+2.tool (editplus) 
+3.setting ( 환경변수 ) 
+
+win+r -> cmd(명령어창) 
+드라이브 이동 (    드라이브명:    ) 
+폴더 이동 (  cd 폴더명 ) 
+파일 목록 ( dir ) 
+
+*.java ---    컴파일 (*.class)   ---  실행 
+        (  javac  파일명.java )     (  java  파일명 )
+
+
+
+
+
+
+
+
+
+제어문 
+ - 프로그램 흐름(방향) 제어 
+ - 조건문 , 반복문 ,  분기문 
+
+1) 조건문 - if , switch 
+ * if   : 조건식에 만족(true)하면 실행문장 수행 
+ 형식)  if( 조건식 )    // 1 
+         {
+            실행문장;   // 2 
+         }
+         //3   
+
+1   --> true  --> 2  --> 3 
+1   --> false  --> 3 
+
+ 형식) if( 조건식 )     // 1
+         {
+              실행문장;  // 2
+         }
+        else // 조건식에 만족하지 않는 경우  , 3
+        {
+            실행문장;  // 4
+        } 
+1 -> true -> 2 -> end 
+1 -> false -> 3 -> 4 -> end 
+
+
+* switch 
+ 형식) switch( 조건적용대상 )   // doubleX
+        {
+          case 값1  : 실행문장 ;  break;
+          case 값2  : 실행문장 ;  break;
+          case 값3  : 실행문장 ;  break;
+          default : 실행문장 ;  break;
+        }
+
+2) 반복문 - while ,  for , do~while 
+ * while - 조건에 만족하는 동안~
+형식) while( 조건식 ) // 1
+       {
+         실행문장;   // 2
+       }
+       // 3
+1   ->  true  ->  2  ->  1 -> true -> 2 
+ -> .... -> 1  ->  false  -> 3 
+
+ex)  while(true) {}   => 무한loop 
+
+
+ * for : 지정된 범위내에 반복 수행 
+ 형식) for( 초기값 ; 조건식(최종값) ; 증감식 )
+        {
+           실행문장; 
+        } 
+ ex) for( ; ; )  -> 무한loop   
+
+ * do
+   {
+     실행문장; 
+   }while( 조건식); 
+
+
+3) 분기문 
+ * break : 
+ * continue : 
+
+
+
+* Array : 배열 
+ - 변수'S 집합 
+ - 형식) dataType [] 배열명 = new dataType[size] 
+
+
+* method : 메소드 , function, 함수 
+형식) returnType 메소드명(변수명,...)
+        {
+            
+         }
+
+www.oracle.com 
+
+
+
+
+ 
